@@ -60,6 +60,12 @@ This project creates an email invite agent that uses an SMTP server to send emai
    modal run src/t5_model_finetuing.py
    ```
 
+   download the fine-tuning modal weigts using Modal:
+
+   ```bash
+   modal volume get t5-v1-wei modal_volume_name ./loac_folder_name
+   ```
+
 5. **Run the email invite agent:**
 
    ```bash
