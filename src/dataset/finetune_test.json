@@ -1,0 +1,243 @@
+[
+    {
+      "text": "Name of Candidate - Aarav\nTime of interview - 3:00 PM IST\nMode of Interview - Google Meet\nClient - Amazon\nThe candidate will attend the interviews from - Home\nDate - 3/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Aarav",
+        "time": "15:00",
+        "DATE": "2025-09-03",
+        "client": "Amazon",
+        "description": "technical call scheduled for Aarav on 2025-09-03 by client, Amazon"
+      }
+    },
+    {
+      "text": "Name of Candidate - Neha\nTime of interview - 10:00 AM PST\nMode of Interview - Phone\nClient - Google\nThe candidate will attend the interviews from - Office\nDate - 4/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Neha",
+        "time": "10:00",
+        "DATE": "2025-09-04",
+        "client": "Google",
+        "description": "technical call scheduled for Neha on 2025-09-04 by client, Google"
+      }
+    },
+    {
+      "text": "Name of Candidate - Rohan\nTime of interview - 12:30 PM EST\nMode of Interview - Skype\nClient - Microsoft\nThe candidate will attend the interviews from - Home\nDate - 5/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Rohan",
+        "time": "12:30",
+        "DATE": "2025-09-05",
+        "client": "Microsoft",
+        "description": "technical call scheduled for Rohan on 2025-09-05 by client, Microsoft"
+      }
+    },
+    {
+      "text": "Name of Candidate - Ananya\nTime of interview - 4:30 PM IST\nMode of Interview - Zoom\nClient - IBM\nThe candidate will attend the interviews from - Office\nDate - 6/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Ananya",
+        "time": "16:30",
+        "DATE": "2025-09-06",
+        "client": "IBM",
+        "description": "technical call scheduled for Ananya on 2025-09-06 by client, IBM"
+      }
+    },
+    {
+      "text": "Name of Candidate - Vikram\nTime of interview - 9:00 AM PST\nMode of Interview - Google Meet\nClient - Apple\nThe candidate will attend the interviews from - Home\nDate - 7/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Vikram",
+        "time": "09:00",
+        "DATE": "2025-09-07",
+        "client": "Apple",
+        "description": "technical call scheduled for Vikram on 2025-09-07 by client, Apple"
+      }
+    },
+    {
+      "text": "Name of Candidate - Meera\nTime of interview - 11:00 AM EST\nMode of Interview - Phone\nClient - Netflix\nThe candidate will attend the interviews from - Office\nDate - 8/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Meera",
+        "time": "11:00",
+        "DATE": "2025-09-08",
+        "client": "Netflix",
+        "description": "technical call scheduled for Meera on 2025-09-08 by client, Netflix"
+      }
+    },
+    {
+      "text": "Name of Candidate - Arjun\nTime of interview - 4:00 PM IST\nMode of Interview - Skype\nClient - Tesla\nThe candidate will attend the interviews from - Home\nDate - 9/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Arjun",
+        "time": "16:00",
+        "DATE": "2025-09-09",
+        "client": "Tesla",
+        "description": "technical call scheduled for Arjun on 2025-09-09 by client, Tesla"
+      }
+    },
+    {
+      "text": "Name of Candidate - Sia\nTime of interview - 10:30 AM PST\nMode of Interview - Zoom\nClient - Uber\nThe candidate will attend the interviews from - Office\nDate - 10/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Sia",
+        "time": "10:30",
+        "DATE": "2025-09-10",
+        "client": "Uber",
+        "description": "technical call scheduled for Sia on 2025-09-10 by client, Uber"
+      }
+    },
+    {
+      "text": "Name of Candidate - Ravi\nTime of interview - 12:00 PM EST\nMode of Interview - Google Meet\nClient - Airbnb\nThe candidate will attend the interviews from - Home\nDate - 11/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Ravi",
+        "time": "12:00",
+        "DATE": "2025-09-11",
+        "client": "Airbnb",
+        "description": "technical call scheduled for Ravi on 2025-09-11 by client, Airbnb"
+      }
+    },
+    {
+      "text": "Name of Candidate - Naina\nTime of interview - 2:30 PM IST\nMode of Interview - Phone\nClient - Spotify\nThe candidate will attend the interviews from - Office\nDate - 12/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Naina",
+        "time": "14:30",
+        "DATE": "2025-09-12",
+        "client": "Spotify",
+        "description": "technical call scheduled for Naina on 2025-09-12 by client, Spotify"
+      }
+    },
+    {
+      "text": "Name of Candidate - Kabir\nTime of interview - 9:30 AM PST\nMode of Interview - Skype\nClient - Twitter\nThe candidate will attend the interviews from - Home\nDate - 13/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Kabir",
+        "time": "09:30",
+        "DATE": "2025-09-13",
+        "client": "Twitter",
+        "description": "technical call scheduled for Kabir on 2025-09-13 by client, Twitter"
+      }
+    },
+    {
+      "text": "Name of Candidate - Isha\nTime of interview - 11:30 AM EST\nMode of Interview - Zoom\nClient - LinkedIn\nThe candidate will attend the interviews from - Office\nDate - 14/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Isha",
+        "time": "11:30",
+        "DATE": "2025-09-14",
+        "client": "LinkedIn",
+        "description": "technical call scheduled for Isha on 2025-09-14 by client, LinkedIn"
+      }
+    },
+    {
+      "text": "Name of Candidate - Yash\nTime of interview - 3:00 PM IST\nMode of Interview - Google Meet\nClient - Adobe\nThe candidate will attend the interviews from - Home\nDate - 15/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Yash",
+        "time": "15:00",
+        "DATE": "2025-09-15",
+        "client": "Adobe",
+        "description": "technical call scheduled for Yash on 2025-09-15 by client, Adobe"
+      }
+    },
+    {
+      "text": "Name of Candidate - Diya\nTime of interview - 10:00 AM PST\nMode of Interview - Phone\nClient - Salesforce\nThe candidate will attend the interviews from - Office\nDate - 16/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Diya",
+        "time": "10:00",
+        "DATE": "2025-09-16",
+        "client": "Salesforce",
+        "description": "technical call scheduled for Diya on 2025-09-16 by client, Salesforce"
+      }
+    },
+    {
+      "text": "Name of Candidate - Aryan\nTime of interview - 12:30 PM EST\nMode of Interview - Skype\nClient - Oracle\nThe candidate will attend the interviews from - Home\nDate - 17/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Aryan",
+        "time": "12:30",
+        "DATE": "2025-09-17",
+        "client": "Oracle",
+        "description": "technical call scheduled for Aryan on 2025-09-17 by client, Oracle"
+      }
+    },
+    {
+      "text": "Name of Candidate - Sara\nTime of interview - 4:30 PM IST\nMode of Interview - Zoom\nClient - Cisco\nThe candidate will attend the interviews from - Office\nDate - 18/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Sara",
+        "time": "16:30",
+        "DATE": "2025-09-18",
+        "client": "Cisco",
+        "description": "technical call scheduled for Sara on 2025-09-18 by client, Cisco"
+      }
+    },
+    {
+      "text": "Name of Candidate - Raj\nTime of interview - 9:00 AM PST\nMode of Interview - Google Meet\nClient - Intel\nThe candidate will attend the interviews from - Home\nDate - 19/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Raj",
+        "time": "09:00",
+        "DATE": "2025-09-19",
+        "client": "Intel",
+        "description": "technical call scheduled for Raj on 2025-09-19 by client, Intel"
+      }
+    },
+    {
+      "text": "Name of Candidate - Tara\nTime of interview - 11:00 AM EST\nMode of Interview - Phone\nClient - NVIDIA\nThe candidate will attend the interviews from - Office\nDate - 20/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Tara",
+        "time": "11:00",
+        "DATE": "2025-09-20",
+        "client": "NVIDIA",
+        "description": "technical call scheduled for Tara on 2025-09-20 by client, NVIDIA"
+      }
+    },
+    {
+      "text": "Name of Candidate - Sam\nTime of interview - 1:30 PM IST\nMode of Interview - Skype\nClient - SAP\nThe candidate will attend the interviews from - Home\nDate - 21/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Sam",
+        "time": "13:30",
+        "DATE": "2025-09-21",
+        "client": "SAP",
+        "description": "technical call scheduled for Sam on 2025-09-21 by client, SAP"
+      }
+    },
+    {
+      "text": "Name of Candidate - Kiara\nTime of interview - 10:30 AM PST\nMode of Interview - Zoom\nClient - VMware\nThe candidate will attend the interviews from - Office\nDate - 22/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Kiara",
+        "time": "10:30",
+        "DATE": "2025-09-22",
+        "client": "VMware",
+        "description": "technical call scheduled for Kiara on 2025-09-22 by client, VMware"
+      }
+    },
+    {
+      "text": "Name of Candidate - Nikhil\nTime of interview - 12:00 PM EST\nMode of Interview - Google Meet\nClient - Dell\nThe candidate will attend the interviews from - Home\nDate - 23/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Nikhil",
+        "time": "12:00",
+        "DATE": "2025-09-23",
+        "client": "Dell",
+        "description": "technical call scheduled for Nikhil on 2025-09-23 by client, Dell"
+      }
+    },
+    {
+      "text": "Name of Candidate - Anushka\nTime of interview - 2:30 PM IST\nMode of Interview - Phone\nClient - HP\nThe candidate will attend the interviews from - Office\nDate - 24/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Anushka",
+        "time": "14:30",
+        "DATE": "2025-09-24",
+        "client": "HP",
+        "description": "technical call scheduled for Anushka on 2025-09-24 by client, HP"
+      }
+    },
+    {
+      "text": "Name of Candidate - Ved\nTime of interview - 9:30 AM PST\nMode of Interview - Skype\nClient - Accenture\nThe candidate will attend the interviews from - Home\nDate - 25/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Ved",
+        "time": "09:30",
+        "DATE": "2025-09-25",
+        "client": "Accenture",
+        "description": "technical call scheduled for Ved on 2025-09-25 by client, Accenture"
+      }
+    },
+    {
+      "text": "Name of Candidate - Riya\nTime of interview - 11:30 AM EST\nMode of Interview - Zoom\nClient - Infosys\nThe candidate will attend the interviews from - Office\nDate - 26/09/2025\ntechnical call",
+      "output": {
+        "candidate": "Riya",
+        "time": "11:30",
+        "DATE": "2025-09-26",
+        "client": "Infosys",
+        "description": "technical call scheduled for Riya on 2025-09-26 by client, Infosys"
+      }
+    }
+  ]
+  
