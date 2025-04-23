@@ -40,10 +40,9 @@ This project creates an email invite agent that uses an SMTP server to send emai
    Create a `.env` file in the root directory and add your SMTP credentials:
 
    ```env
-   SMTP_HOST=your_smtp_host
-   SMTP_PORT=your_smtp_port
-   SMTP_USER=your_smtp_user
-   SMTP_PASSWORD=your_smtp_password
+   
+   EMAIL_USER=your_smtp_user
+   EMAIL_PASS=your_smtp_password
    ```
 
 4. **Fine-tune the T5 model:**
