@@ -1,1 +1,5 @@
 dotenv-python==0.0.1
+transformers==4.51.3
+modal==0.74.15
+dotenv==0.9.9
+torch==2.6.0
